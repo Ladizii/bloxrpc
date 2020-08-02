@@ -1,0 +1,16 @@
+{
+  "name": "bloxrpc",
+  "version": "1.0.0",
+  "description": "A Discord RPC for ROBLOX.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ladizii",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "dotenv": "^8.2.0",
+    "noblox.js": "^4.6.5"
+  }
+}
